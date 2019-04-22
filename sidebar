@@ -1,6 +1,19 @@
 # esta sera la barra lateral
 <aside>
-  <b>posts</b>
-  <b>pages</b>
-  <b>tag-cloud</b>
+  <ul><b>posts</b>
+    <li>22 de abril 2019</li>
+    <li>21 de abril 2019</li>
+    <li>20 de abril 2019</li>
+  </ul>
+  <ul><b>pages</b>
+    <li>pagina 1</li>
+    <li>pagina 2</li>
+    <li>pagina 3</li>
+  </ul>
+  <b>nube de etiquetas</b>
+  <ul><b>enlaces</b>
+    <li><a href="//github.com/">GitHub</a></li>
+    <li><a href="//google.com/">Google</a></li>
+    <li><a href="//oracle.com/">Oracle</a></li>
+  </ul>
 </aside>
