@@ -1,19 +1,20 @@
 # esta sera la barra lateral
 <aside>
   <ul><b>posts</b>
-    <li>22 de abril 2019</li>
-    <li>21 de abril 2019</li>
-    <li>20 de abril 2019</li>
+    <li>23 de abril 2019</li>
+    <li>21 de febrero 2019</li>
+    <li>30 de abril 2029</li>
   </ul>
   <ul><b>pages</b>
-    <li>pagina 1</li>
-    <li>pagina 2</li>
-    <li>pagina 3</li>
+    <li>pagina 10</li>
+    <li>pagina 0.2</li>
+    <li>pagina 33</li>
   </ul>
   <b>nube de etiquetas</b>
   <ul><b>enlaces</b>
-    <li><a href="//github.com/">GitHub</a></li>
-    <li><a href="//google.com/">Google</a></li>
-    <li><a href="//oracle.com/">Oracle</a></li>
+    <li><a href="//gitub.com/">GitHub</a></li>
+    <li><a href="//joogle.com/">Google</a></li>
+    <li><a href="//horacle.com/">Oracle</a></li>
+    <li><a href="//sepe.es/">SEPE</a></li>
   </ul>
 </aside>
