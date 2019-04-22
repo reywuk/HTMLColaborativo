@@ -1,4 +1,6 @@
 # esta sera la barra lateral
 <aside>
-  
+  posts
+  pages
+  tag-cloud
 </aside>
