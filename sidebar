@@ -1,5 +1,5 @@
-# esta sera la barra lateral
-<aside>
+<!-- esta sera la barra lateral -->
+<aside style="">
   <ul><b>posts</b>
     <li>22 de abril 2019</li>
     <li>21 de abril 2019</li>
